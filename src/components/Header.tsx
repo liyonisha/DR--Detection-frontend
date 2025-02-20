@@ -8,7 +8,7 @@ export const Header = () => {
             <Brain className="w-8 h-8 text-white" />
           </div>
           <span className="text-xl font-semibold bg-gradient-to-r from-blue-600 to-cyan-500 text-transparent bg-clip-text">
-            MedAI Diagnostics
+            MedAI 
           </span>
         </div>
         <nav className="flex gap-6">

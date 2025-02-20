@@ -18,7 +18,7 @@ export const ImageUpload = () => {
           <div className="flex items-center gap-3">
             <ImageIcon className="w-6 h-6 text-white" />
             <h2 className="text-xl font-semibold text-white">
-              Disease Detection
+            Image Analysis
             </h2>
           </div>
         </div>
