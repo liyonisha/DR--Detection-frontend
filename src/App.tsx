@@ -12,7 +12,7 @@ export function App() {
             AI-Powered Healthcare
           </div>
           <h1 className="text-4xl font-bold text-gray-900 mb-4">
-            Advanced Medical Diagnostics with AI
+          Diabetic Retinopathy Detection with AI
           </h1>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto mb-8">
             Upload medical images for instant disease detection or chat with our
